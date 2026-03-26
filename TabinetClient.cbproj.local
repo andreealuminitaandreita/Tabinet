@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.659,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\EntitateJoc.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.827,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.471,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\Unit2.dfm=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.302,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\MainUnitClient.dfm=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.302,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\MainUnitClient.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\MesajeRetea.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\InformatiiSuplimentare.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.898,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\Carte.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\Unit2.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.302,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\MainUnitClient.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.967,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\TabinetClientPCH1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.857,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\Unit2.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.983,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaClient\TabinetClient.cbproj=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

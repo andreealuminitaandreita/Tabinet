@@ -23,7 +23,7 @@ InformatiiSuplimentare::InformatiiSuplimentare(const std::string& simbolCarte, c
 		esteCarteaCuPuncte = false;  // NU sunt cãrti speciale
         valoarePuncte = 1;           // DAR aduc 1 punct la scor
     } else if (simbolCarte == "10") {
-		esteCarteaCuPuncte = false;  // NU sunt cãrti speciale
+        esteCarteaCuPuncte = false;  // NU sunt cãrti speciale
         valoarePuncte = 1;           // DAR aduc 1 punct la scor
     }
 }

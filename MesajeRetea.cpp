@@ -57,7 +57,7 @@ String MesajeRetea::CreeazaMesajDistribuie(const std::vector<Carte>& carti) {
 
     for (size_t i = 0; i < carti.size(); i++) {
         if (i > 0) mesaj += ",";
-        mesaj += SerializeazaCarte(carti[i]);
+		mesaj += SerializeazaCarte(carti[i]);
     }
 
     return mesaj;
