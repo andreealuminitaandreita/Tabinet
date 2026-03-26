@@ -10,20 +10,20 @@ InformatiiSuplimentare::InformatiiSuplimentare(const std::string& simbolCarte, c
     valoarePuncte = 0;
     esteCarteaCuPuncte = false;
 
-	// Doar 10 de Romb si 2 de Trefla sunt "carti cu puncte speciale"
+	// Doar 10 de Romb si 2 de Trefla sunt "cãrti cu puncte speciale"
     if (simbolCarte == "10" && suitaCarte == "Romb") {
-		esteCarteaCuPuncte = true;  // Carte speciala
+        esteCarteaCuPuncte = true;  // Carte specialã
         valoarePuncte = 2;
     } else if (simbolCarte == "2" && suitaCarte == "Trefla") {
-		esteCarteaCuPuncte = true;  // Carte speciala
+        esteCarteaCuPuncte = true;  // Carte specialã
         valoarePuncte = 1;
     }
-	// Asii, Valetii, Damele, Regii si Zecarii aduc puncte la scor, DAR nu sunt "carti cu puncte speciale"
+	// Asii, Valetii, Damele, Regii si Zecarii aduc puncte la scor, DAR nu sunt "cãrti cu puncte speciale"
     else if (simbolCarte == "A" || simbolCarte == "J" || simbolCarte == "D" || simbolCarte == "K") {
 		esteCarteaCuPuncte = false;  // NU sunt cãrti speciale
-		valoarePuncte = 1;           // DAR aduc 1 punct la scor
+        valoarePuncte = 1;           // DAR aduc 1 punct la scor
     } else if (simbolCarte == "10") {
-        esteCarteaCuPuncte = false;  // NU sunt cãrti speciale
+		esteCarteaCuPuncte = false;  // NU sunt cãrti speciale
         valoarePuncte = 1;           // DAR aduc 1 punct la scor
     }
 }

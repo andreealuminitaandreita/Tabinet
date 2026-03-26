@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.801,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\MainUnitServer.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.801,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\MainUnitServer.dfm=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Unit1.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\MesajeRetea.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.091,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\TabinetServer.cbproj=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.059,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\TabinetServerPCH1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.022,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Jucator.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.801,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\MainUnitServer.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Unit2.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.170,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.857,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.618,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.667,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\ReguliTabinet.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\EntitateJoc.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.620,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\GestionareJoc.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Unit2.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Carte.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.631,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\InformatiiSuplimentare.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.636,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\MasaDeJoc.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.667,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Pachet.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Unit2.dfm=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.673,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\Unit1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\AplicatiaServer\MesajeRetea.h</Transaction>
+  </Transactions>
+</BorlandProject>

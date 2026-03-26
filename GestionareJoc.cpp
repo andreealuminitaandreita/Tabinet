@@ -16,7 +16,7 @@ GestionareJoc::GestionareJoc() : indexJucatorCurent(0) {}
 void GestionareJoc::AfiseazaInformatii() const {
     pachetPrincipal.AfiseazaInformatii();
     masaDeJoc.AfiseazaInformatii();
-    for (const auto &j : listaJucatori) j.AfiseazaInformatii();
+	for (const auto &j : listaJucatori) j.AfiseazaInformatii();
 }
 
 void GestionareJoc::AdaugaJucator(const std::string &nume) {
@@ -71,6 +71,9 @@ bool GestionareJoc::FinalizeazaDistributiaPrimeiRunde(bool acceptaJ1, const std:
         DistribuieCartiRundaNoua(6, 0);
         DistribuieCartiRundaNoua(6, 1);
     }
+
+    // Serverul (jucãtorul 0) începe primul
+    indexJucatorCurent = 0;
     return true;
 }
 
@@ -89,7 +92,7 @@ void GestionareJoc::ExecutaMutare(int idxJ, int idxC) {
         do {
             gasit = false;
             std::vector<int> deSters;
-            // Folosim codul tau de backtracking din ReguliTabinet
+
             if (reguli.GasesteCombinatiiSuma(masa, t, deSters)) {
                 gasit = aLuat = true;
                 std::sort(deSters.rbegin(), deSters.rend());
@@ -111,6 +114,9 @@ void GestionareJoc::ExecutaMutare(int idxJ, int idxC) {
         j.SeteazaUltimaMana(false);
     }
 
+
+    indexJucatorCurent = (indexJucatorCurent + 1) % listaJucatori.size();
+
     VerificaSiImparteCartiNoi();
     VerificaFinalJoc();
 }
@@ -130,7 +136,7 @@ void GestionareJoc::VerificaFinalJoc() {
             auto& m = masaDeJoc.GetCartiPeMasaReferinta();
             for (auto& j : listaJucatori)
                 if (j.GetUltimaMana()) { for(auto& c : m) j.AdaugaInCastig(c); break; }
-			m.clear();
+            m.clear();
             for (size_t i = 0; i < listaJucatori.size(); i++) {
                 listaJucatori[i].SetPunctajFinal(listaJucatori[i].CalculeazaPunctajFinal());
             }
