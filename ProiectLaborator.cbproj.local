@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.422,C:\Users\andre\OneDrive\Documente\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\ProiectLaborator.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.350,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\InformatiiSuplimentare.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.982,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\ReguliTabinet.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.978,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit2.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\InformatiiSuplimentare.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.dfm=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.408,C:\Users\andre\OneDrive\Documente\Embarcadero\Studio\Projects\Unit1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.408,C:\Users\andre\OneDrive\Documente\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Carte.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Jucator.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\File1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\EntitateJoc.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.563,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\File1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\GestionareJoc.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\MasaDeJoc.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\MainUnit.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Pachet.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.177,=C:\Users\andre\OneDrive\Documente\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.619,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\MainUnit.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.222,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\GestionareJoc.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\MasaDeJoc.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.744,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.408,C:\Users\andre\OneDrive\Documente\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,=C:\Users\andre\OneDrive\Documente\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Carte.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.982,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\ReguliTabinet.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.660,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.913,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.404,C:\Users\andre\OneDrive\Documente\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\ProiectLaboratorPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.654,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.854,=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Jucator.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Unit1.cpp=C:\Users\andre\OneDrive\Desktop\Facultate_An_II\PrimaAplicatie\Pachet.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
